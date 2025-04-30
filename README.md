@@ -1,12 +1,15 @@
-## Hola estimados reclutadores 👋
+# 👨‍💻 Nicolás | Backend Developer & Data Scientist
 
-**NicolasAndresCL/NicolasAndresCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am passionate about **information technology**, studying full-time with a **self-taught and systematic approach**.  
+I use learning platforms like **Udemy (Global Mentoring - Ing. Ubaldo Acosta) and HolaMundo (Nicolás Schurmann)** to strengthen my knowledge.  
 
-Soy un desarrollador backend en Python:
+I specialize in **backend development with Python**, and I work with technologies such as:  
+🔹 Git, GitHub, Visual Studio Code  
+🔹 MySQL, Excel, Power BI  
+🔹 HTML, CSS, Docker, Figma  
+🔹 R, Unity  
 
-- 🔭 I’m currently working on my house
-- 🌱 I’m currently learning Python, MySQL, R, Excel, Git, GitHub, Gitkraken, Power BI, Figma, Pandas, NumPy, Unity, SAP.
-- 👯 I’m looking to collaborate on proyect Backend Python.
-- 💬 Quieres contactarme: nicolas.cano.leal@gmail.com
-- 📫 How to reach me: NicolasAndresCL.
-- ⚡ Fun fact: Estudie 1 año en Iplacex, actualmente estoy estudiando con Youtube y Udemy 
+Currently, I am a **Junior Web Developer in Python** and **Junior Data Scientist**, combining programming and data analysis to build **efficient and scalable solutions**.
+
+
