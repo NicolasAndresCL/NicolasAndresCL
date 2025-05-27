@@ -6,7 +6,7 @@ Languages & Tools:
 Python (Advanced), R, HTML, CSS, SQL (MySQL), Git, GitHub, GitKraken, Docker, Jupyter, Visual Studio Code, Cmder
 
 Frameworks & Technologies:
-Django, Django REST, Power BI, Unity
+Django, Django REST, Power BI, Unity, FastAPI
 
 Design & Project Management:
 Figma, Trello, Advanced Excel
@@ -20,7 +20,7 @@ Scrum, Agile Project Management
 📜 Relevant Training
 I've completed specialized courses on platforms such as LinkedIn Learning, Udemy, and DesafíoLatam in areas including:
 
-Advanced Python, Django REST, Pandas
+Advanced Python, Django REST, Pandas, FastAPI
 
 SQL, Power BI, Data Analysis
 
