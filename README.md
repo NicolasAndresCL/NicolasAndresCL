@@ -1,42 +1,69 @@
-📌 Professional Introduction
-Hello! I'm Nicolás Andrés Cano Leal, a passionate self-taught software developer focused on Python and backend technologies. While I don't yet have formal work experience, I've dedicated over 500 hours in the past five months to intensive self-directed learning, building strong skills in programming, databases, and agile methodologies.
+🧑‍💻 Nicolás Andrés Cano Leal
+Backend Python Developer | Passionate About Clean Code & Scalable Solutions
+📍 Chile | 🌐 github.com/NicolasAndresCL | 💼 linkedin.com/in/nicolas-andres-cano-leal | 📧 nicolas.cano.leal@gmail.com
 
-🖥️ Technical Skills
-Languages & Tools:
-Python (Advanced), R, HTML, CSS, SQL (MySQL), Git, GitHub, GitKraken, Docker, Jupyter, Visual Studio Code, Cmder
+📌 Professional Summary
+Hi! I'm Nicolás Andrés Cano Leal, a self-taught backend developer focused on Python and modern web technologies. Although I don't have formal work experience yet, I've committed over 500 hours in the last 5 months to intensive, hands-on training in software development, databases, and agile workflows.
+I'm known for being self-motivated, adaptable, and always striving to improve, with a passion for building functional, scalable solutions.
 
-Frameworks & Technologies:
-Django, Django REST, Power BI, Unity, FastAPI
+🧰 Technical Skills
+💻 Languages & Tools
+Python (Advanced), R, HTML, CSS, SQL (MySQL)
 
-Design & Project Management:
+Git, GitHub, GitKraken, Docker, Jupyter, Visual Studio Code, Cmder
+
+⚙️ Frameworks & Technologies
+Flask + Jinja2 + Templates: for building clean and dynamic web apps
+
+FastAPI: for high-performance RESTful APIs with modern tooling
+
+Django, Django REST Framework
+
+Bootstrap (responsive UI), Unity
+
+Power BI for data visualization
+
+🛠️ Design & Project Management
 Figma, Trello, Advanced Excel
 
-Cloud & DevOps:
-AWS, Kubernetes
+Scrum, Agile methodologies
 
-Methodologies:
-Scrum, Agile Project Management
+☁️ Cloud & DevOps
+AWS (Foundations), Kubernetes (Basic)
 
-📜 Relevant Training
-I've completed specialized courses on platforms such as LinkedIn Learning, Udemy, and DesafíoLatam in areas including:
+🚀 Projects & Practical Experience
+I've built several personal projects to consolidate my skills, including:
 
-Advanced Python, Django REST, Pandas, FastAPI
+Flask + Jinja2 + Bootstrap websites with clean structure and responsive design
+
+FastAPI + SQLAlchemy + Pydantic APIs with robust validation and modularity
+
+Reusable templates, Git version control, agile boards on GitHub Projects
+
+Local deployments, clean code practices, and focus on maintainability
+
+📁 View my projects: github.com/NicolasAndresCL
+
+📚 Specialized Training
+I’ve completed hands-on courses from Udemy, LinkedIn Learning, and DesafíoLatam in:
+
+Advanced Python, Django REST, FastAPI, Pandas
 
 SQL, Power BI, Data Analysis
 
-Git, Frontend Development, WordPress + Divi
+Frontend development with HTML, CSS, Bootstrap, and WordPress with Divi
 
 AWS, Kubernetes, and Prompt Engineering
 
-🚀 Projects & Hands-On Experience
-I've built personal projects available on my GitHub, applying clean code principles, version control, and agile workflows. I’m known for being self-driven, adaptable, and committed to continuous improvement.
-
 🎯 Career Objective
-I’m actively seeking my first professional opportunity as a Junior Python Developer, Backend Developer, or Data Analyst. I'm open to entry-level compensation with a strong commitment to learning, contributing from day one, and growing alongside a skilled technical team.
+I’m actively looking for my first professional opportunity as a:
 
-🔗 Contact
-📧 Email: nicolas.cano.leal@gmail.com
+Junior Backend Developer (Python)
 
-💼 LinkedIn: linkedin.com/in/nicolas-andres-cano-leal
+Web Developer with Flask or FastAPI
 
-🐙 GitHub: github.com/NicolasAndresCL
+Junior Data Analyst
+
+I'm open to entry-level compensation and fully committed to delivering value from day one while growing fast within a collaborative tech team.
+
+💬 “Code is how I think, how I build, and how I shape a better future.”
