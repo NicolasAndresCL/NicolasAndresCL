@@ -1,69 +1,84 @@
-🧑‍💻 Nicolás Andrés Cano Leal
-Backend Python Developer | Passionate About Clean Code & Scalable Solutions
-📍 Chile | 🌐 github.com/NicolasAndresCL | 💼 linkedin.com/in/nicolas-andres-cano-leal | 📧 nicolas.cano.leal@gmail.com
+🧑‍💻 **Nicolás Andrés Cano Leal** | Backend Python Developer | Passionate About Clean Code & Scalable Solutions
 
-📌 Professional Summary
-Hi! I'm Nicolás Andrés Cano Leal, a self-taught backend developer focused on Python and modern web technologies. Although I don't have formal work experience yet, I've committed over 500 hours in the last 5 months to intensive, hands-on training in software development, databases, and agile workflows.
-I'm known for being self-motivated, adaptable, and always striving to improve, with a passion for building functional, scalable solutions.
+📍 Rancagua, O'Higgins, Chile
+🌐 [My Portfolio (GitHub Pages)](https://nicolasandrescl.github.io) | 💡 [My Blog (Dev.to)](https://dev.to/nicolasandrescl) | 💼 [My LinkedIn](https://www.linkedin.com/in/nicolas-andres-cano-leal) | 📧 nicolas.cano.leal@gmail.com
 
-🧰 Technical Skills
-💻 Languages & Tools
-Python (Advanced), R, HTML, CSS, SQL (MySQL)
+---
 
-Git, GitHub, GitKraken, Docker, Jupyter, Visual Studio Code, Cmder
+### 📌 Professional Summary
 
-⚙️ Frameworks & Technologies
-Flask + Jinja2 + Templates: for building clean and dynamic web apps
+Hi! I'm Nicolás Andrés Cano Leal, a self-taught backend developer with a strong focus on **Python** and modern web technologies. Although I don't have formal work experience yet, I've dedicated over **500 hours** in the last 5 months to intensive, hands-on training in software development, databases, and agile methodologies.
 
-FastAPI: for high-performance RESTful APIs with modern tooling
+I am characterized by being self-motivated, adaptable, and having an unwavering passion for building functional, scalable, and maintainable solutions, always striving for excellence through clean code and continuous improvement.
 
-Django, Django REST Framework
+---
 
-Bootstrap (responsive UI), Unity
+### 🧰 Technical Skills
 
-Power BI for data visualization
+#### 💻 Languages & Tools
+- **Python (Advanced)**, R, HTML, CSS, SQL (MySQL)
+- Git, GitHub, GitKraken, Docker, Jupyter, Visual Studio Code, Cmder
 
-🛠️ Design & Project Management
-Figma, Trello, Advanced Excel
+#### ⚙️ Backend Frameworks & Technologies
+- **Django, Django REST Framework (DRF):** Building robust REST APIs and web applications.
+- **Flask** + Jinja2 + Templates: For agile and dynamic web development.
+- **FastAPI:** High-performance REST APIs with data validation.
+- **ORM (Object-Relational Mapping):** Experience with **SQLAlchemy** and **Django ORM** for efficient database interaction.
+- **Unit Tests:** Practices in developing tests to ensure code quality and reliability.
 
-Scrum, Agile methodologies
+#### 🚀 Frontend Knowledge (For integration or comprehensive understanding)
+- **React (Foundational Knowledge):** Understanding of basic concepts and interaction with backend APIs.
+- Bootstrap (Responsive UI)
+- Unity (For specific projects or interest)
 
-☁️ Cloud & DevOps
-AWS (Foundations), Kubernetes (Basic)
+#### 🛠️ Design & Project Management
+- Figma, Trello, Advanced Excel
+- Scrum, Agile methodologies
 
-🚀 Projects & Practical Experience
-I've built several personal projects to consolidate my skills, including:
+#### ☁️ Cloud & DevOps (Foundational Knowledge)
+- AWS (Foundations), Kubernetes (Basic)
 
-Flask + Jinja2 + Bootstrap websites with clean structure and responsive design
+---
 
-FastAPI + SQLAlchemy + Pydantic APIs with robust validation and modularity
+### 🚀 Projects & Practical Experience
 
-Reusable templates, Git version control, agile boards on GitHub Projects
+I have developed several personal projects to consolidate my skills, including:
 
-Local deployments, clean code practices, and focus on maintainability
+- Flask + Jinja2 + Bootstrap websites, featuring clean structure and responsive design.
+- FastAPI + SQLAlchemy + Pydantic APIs, focused on robust validation and modularity.
+- Projects using **Django and Django REST Framework** for full web applications and RESTful services.
+- Implementation of **Unit Tests** to ensure code functionality and stability.
+- Use of reusable templates, Git version control, and project management with agile boards on GitHub Projects.
+- Local deployments, application of clean code practices, and a strong focus on maintainability.
 
-📁 View my projects: github.com/NicolasAndresCL
+➡️ **Explore My Full Portfolio:** [nicolasandrescl.github.io](https://nicolasandrescl.github.io)
+➡️ Find the code for these and more projects directly on my [GitHub Profile](https://github.com/NicolasAndresCL)
 
-📚 Specialized Training
-I’ve completed hands-on courses from Udemy, LinkedIn Learning, and DesafíoLatam in:
+---
 
-Advanced Python, Django REST, FastAPI, Pandas
+### 📚 Specialized Training
 
-SQL, Power BI, Data Analysis
+I have completed practical and high-level courses from platforms such as Udemy, LinkedIn Learning, and DesafíoLatam in:
 
-Frontend development with HTML, CSS, Bootstrap, and WordPress with Divi
+- **Advanced Python**, **Django REST**, **FastAPI**, Pandas.
+- SQL, Power BI, Data Analysis.
+- Frontend development with HTML, CSS, Bootstrap, and WordPress with Divi.
+- AWS, Kubernetes, and Prompt Engineering.
 
-AWS, Kubernetes, and Prompt Engineering
+---
 
-🎯 Career Objective
-I’m actively looking for my first professional opportunity as a:
+### 🎯 Career Objective
 
-Junior Backend Developer (Python)
+I am actively seeking my first professional opportunity as a:
 
-Web Developer with Flask or FastAPI
+- **Junior Backend Developer (Python)**
+- Web Developer with Flask or FastAPI (and **Django**)
+- Junior Data Analyst
 
-Junior Data Analyst
+I am open to entry-level compensation and fully committed to delivering value from day one, while rapidly growing within a collaborative tech team.
 
-I'm open to entry-level compensation and fully committed to delivering value from day one while growing fast within a collaborative tech team.
+---
 
-💬 “Code is how I think, how I build, and how I shape a better future.”
+💬 *"Code is how I think, how I build, and how I shape a better future."*
+
+---
