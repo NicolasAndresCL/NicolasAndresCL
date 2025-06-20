@@ -7,7 +7,7 @@
 
 ### 📌 Professional Summary
 
-Hi! I'm Nicolás Andrés Cano Leal, a self-taught backend developer with a strong focus on **Python** and modern web technologies. Although I don't have formal work experience yet, I've dedicated over **500 hours** in the last 5 months to intensive, hands-on training in software development, databases, and agile methodologies.
+Hi! I'm Nicolás Andrés Cano Leal, a self-taught backend developer with a strong focus on **Python** and modern web technologies. Although I don't have formal work experience yet, I've dedicated over **1000 hours** in the last 6 months to intensive, hands-on training in software development, databases, and agile methodologies.
 
 I am characterized by being self-motivated, adaptable, and having an unwavering passion for building functional, scalable, and maintainable solutions, always striving for excellence through clean code and continuous improvement.
 
