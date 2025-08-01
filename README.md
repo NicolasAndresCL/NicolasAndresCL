@@ -1,84 +1,133 @@
-🧑‍💻 **Nicolás Andrés Cano Leal** | Backend Python Developer | Passionate About Clean Code & Scalable Solutions
+# 👨‍💻 Nicolás Andrés Cano Leal
 
-📍 Rancagua, O'Higgins, Chile
-🌐 [My Portfolio (GitHub Pages)](https://nicolasandrescl.github.io) | 💡 [My Blog (Dev.to)](https://dev.to/nicolasandrescl) | 💼 [My LinkedIn](https://www.linkedin.com/in/nicolas-andres-cano-leal) | 📧 nicolas.cano.leal@gmail.com
+**Backend Python Developer | Scalable APIs | Technical Documentation | Arcade Logic**
 
----
-
-### 📌 Professional Summary
-
-Hi! I'm Nicolás Andrés Cano Leal, a self-taught backend developer with a strong focus on **Python** and modern web technologies. Although I don't have formal work experience yet, I've dedicated over **1000 hours** in the last 6 months to intensive, hands-on training in software development, databases, and agile methodologies.
-
-I am characterized by being self-motivated, adaptable, and having an unwavering passion for building functional, scalable, and maintainable solutions, always striving for excellence through clean code and continuous improvement.
+📍 Rancagua, Chile  
+🌐 Portfolio: [nicolasandrescl.pythonanywhere.com](https://nicolasandrescl.pythonanywhere.com)
 
 ---
 
-### 🧰 Technical Skills
+## 🌐 English Version
 
-#### 💻 Languages & Tools
-- **Python (Advanced)**, R, HTML, CSS, SQL (MySQL)
-- Git, GitHub, GitKraken, Docker, Jupyter, Visual Studio Code, Cmder
+### 🚀 About Me
 
-#### ⚙️ Backend Frameworks & Technologies
-- **Django, Django REST Framework (DRF):** Building robust REST APIs and web applications.
-- **Flask** + Jinja2 + Templates: For agile and dynamic web development.
-- **FastAPI:** High-performance REST APIs with data validation.
-- **ORM (Object-Relational Mapping):** Experience with **SQLAlchemy** and **Django ORM** for efficient database interaction.
-- **Unit Tests:** Practices in developing tests to ensure code quality and reliability.
+I'm a self-taught backend developer focused on building scalable APIs and technical solutions using **Python**, **Django**, and modern web technologies. With over **1000 hours of hands-on experience**, I've designed clean architectures, implemented REST and GraphQL endpoints, and delivered visually documented projects ready for interviews and multi-platform deployment.
 
-#### 🚀 Frontend Knowledge (For integration or comprehensive understanding)
-- **React (Foundational Knowledge):** Understanding of basic concepts and interaction with backend APIs.
-- Bootstrap (Responsive UI)
-- Unity (For specific projects or interest)
-
-#### 🛠️ Design & Project Management
-- Figma, Trello, Advanced Excel
-- Scrum, Agile methodologies
-
-#### ☁️ Cloud & DevOps (Foundational Knowledge)
-- AWS (Foundations), Kubernetes (Basic)
+I strive for clean code, modularity, and clarity in every aspect—from commits to technical documentation.
 
 ---
 
-### 🚀 Projects & Practical Experience
+### 🧰 Technologies
 
-I have developed several personal projects to consolidate my skills, including:
+#### 🔧 Backend & APIs
 
-- Flask + Jinja2 + Bootstrap websites, featuring clean structure and responsive design.
-- FastAPI + SQLAlchemy + Pydantic APIs, focused on robust validation and modularity.
-- Projects using **Django and Django REST Framework** for full web applications and RESTful services.
-- Implementation of **Unit Tests** to ensure code functionality and stability.
-- Use of reusable templates, Git version control, and project management with agile boards on GitHub Projects.
-- Local deployments, application of clean code practices, and a strong focus on maintainability.
+- 🐍 Python · 🧬 Django · ⚙️ Django REST Framework  
+- 🚀 FastAPI · 🔥 Flask · 🌐 GraphQL (Graphene-Django)  
+- 🔄 SQLAlchemy · 🗄️ MySQL / PostgreSQL · ✅ Pydantic  
+- 🔐 JWT Auth · 🧪 Unit Testing · 🧩 Modular App Architecture  
+- 📊 OpenAPI · 📘 Swagger · 🎯 Redoc · REST + GraphQL
 
-➡️ **Explore My Full Portfolio:** [nicolasandrescl.github.io](https://nicolasandrescl.github.io)
-➡️ Find the code for these and more projects directly on my [GitHub Profile](https://github.com/NicolasAndresCL)
+#### 🎮 Arcade Logic (Game-Oriented Backend)
+
+- 🎮 Inventory models with rarity, effects, level requirements  
+- 🧠 Custom logic for item behavior and active states  
+- 🖥️ Multi-platform presentation: Web · Android · Windows · README visual
+
+#### 🛠️ Development Tools
+
+- 🧠 Git · 🐙 GitHub · 🐳 Docker · 🌀 GitKraken  
+- 🖊️ VSCode · 📓 Jupyter · 🎨 Figma · 📋 Trello · 📈 Excel  
+- 🔄 Scrum · ⚡️ Agile
 
 ---
 
-### 📚 Specialized Training
+### 📘 Highlight Projects
 
-I have completed practical and high-level courses from platforms such as Udemy, LinkedIn Learning, and DesafíoLatam in:
+- CRUDs for Users and Arcade Inventory (REST + GraphQL)  
+- Refactored inventory models with advanced game logic  
+- Swagger UI + OpenAPI with tags, examples, and operation_id customization  
+- README with roadmap, technical diagrams, and gameplay integration preview
 
-- **Advanced Python**, **Django REST**, **FastAPI**, Pandas.
-- SQL, Power BI, Data Analysis.
-- Frontend development with HTML, CSS, Bootstrap, and WordPress with Divi.
-- AWS, Kubernetes, and Prompt Engineering.
+📂 All projects are documented, structured and presented for technical reviews, interviews, and portfolio exposure.
 
 ---
 
 ### 🎯 Career Objective
 
-I am actively seeking my first professional opportunity as a:
+Actively seeking roles as:
 
-- **Junior Backend Developer (Python)**
-- Web Developer with Flask or FastAPI (and **Django**)
-- Junior Data Analyst
+- 💼 Junior Backend Developer (Python)  
+- 🌐 Web Developer (Flask / FastAPI / Django)  
+- 📊 Scalable API Engineer with game logic background
 
-I am open to entry-level compensation and fully committed to delivering value from day one, while rapidly growing within a collaborative tech team.
+Ready to deliver value from day one and grow with a collaborative technical team.
+
+---
+
+> 💬 *"Code is how I think, how I build, and how I shape a better future."*
 
 ---
 
-💬 *"Code is how I think, how I build, and how I shape a better future."*
+## 🇪🇸 Versión en Español
+
+### 🚀 Sobre mí
+
+Soy un desarrollador backend autodidacta, enfocado en construir soluciones escalables usando **Python**, **Django**, y tecnologías modernas de APIs. He acumulado más de **1000 horas prácticas** diseñando arquitecturas limpias, endpoints REST y GraphQL, con documentación visual lista para entrevistas y despliegue multiplataforma.
+
+Busco excelencia técnica, modularidad y una presentación clara en cada aspecto: desde los commits hasta la documentación del proyecto.
 
 ---
+
+### 🧰 Tecnologías
+
+#### 🔧 Backend y APIs
+
+- 🐍 Python · 🧬 Django · ⚙️ Django REST Framework  
+- 🚀 FastAPI · 🔥 Flask · 🌐 GraphQL (Graphene-Django)  
+- 🔄 SQLAlchemy · 🗄️ MySQL / PostgreSQL · ✅ Pydantic  
+- 🔐 JWT Auth · 🧪 Unit Testing · 🧩 Arquitectura modular por apps  
+- 📊 OpenAPI · 📘 Swagger · 🎯 Redoc · REST + GraphQL
+
+#### 🎮 Lógica arcade multiplataforma
+
+- 🎮 Modelos con rareza, efectos, requisitos de nivel  
+- 🧠 Lógica personalizada para ítems y estados activos  
+- 🖥️ Presentación multiplataforma: Web · Android · Windows · README visual
+
+#### 🛠️ Herramientas de desarrollo
+
+- 🧠 Git · 🐙 GitHub · 🐳 Docker · 🌀 GitKraken  
+- 🖊️ VSCode · 📓 Jupyter · 🎨 Figma · 📋 Trello · 📈 Excel  
+- 🔄 Scrum · ⚡️ Metodologías ágiles
+
+---
+
+### 📘 Proyectos destacados
+
+- CRUDs completos de Usuarios e Inventario Arcade (REST + GraphQL)  
+- Refactorización avanzada de modelos con lógica arcade  
+- Swagger con tags personalizados, ejemplos visuales y operation_id  
+- README profesional con roadmap, diagramas técnicos y preview de integración gameplay
+
+📂 Todos los proyectos están documentados, estructurados y presentados para entrevistas técnicas, revisión externa y portafolio profesional.
+
+---
+
+### 🎯 Objetivo profesional
+
+Estoy en búsqueda activa como:
+
+- 💼 Desarrollador Backend Junior (Python)  
+- 🌐 Web Developer (Flask / FastAPI / Django)  
+- 📊 Desarrollador de APIs escalables con lógica interactiva
+
+Comprometido a entregar valor desde el primer día y crecer dentro de un equipo técnico colaborativo.
+
+---
+
+## 📬 Contacto
+
+- 📧 Email: `nicolas.cano.leal@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/nicolas-andres-cano-leal](https://www.linkedin.com/in/nicolas-andres-cano-leal)  
+- 🌐 Portafolio: [nicolasandrescl.pythonanywhere.com](https://nicolasandrescl.pythonanywhere.com)  
+- 🧑‍💻 GitHub: [github.com/NicolasAndresCL](https://github.com/NicolasAndresCL)
