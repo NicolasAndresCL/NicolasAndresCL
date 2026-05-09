@@ -1,173 +1,104 @@
-# 👨‍💻 Nicolás Andrés Cano Leal
+# Nicolás Andrés Cano Leal
 
-**Backend Python Developer | Data Processing | Scalable APIs | Legacy-to-Modern Systems**
+**Turning operational chaos into clean, automated systems — one Python service at a time.**  
+*Convirtiendo caos operacional en sistemas limpios y automatizados — un servicio Python a la vez.*
 
 📍 Rancagua, Chile  
-🌐 Portafolio: [nicolasandrescl.pythonanywhere.com](https://nicolasandrescl.pythonanywhere.com)
+🌐 Portfolio: [nicolasandrescl.pythonanywhere.com](https://nicolasandrescl.pythonanywhere.com)  
+💼 LinkedIn: [nicolas-andres-cano-leal](https://www.linkedin.com/in/nicolas-andres-cano-leal)  
+🧑‍💻 GitHub: [github.com/NicolasAndresCL](https://github.com/NicolasAndresCL)  
+📧 Email: nicolas.cano.leal@gmail.com
 
 ---
 
-## 🌐 English Version
+## 🚀 Sobre mí / About Me
 
-### 🚀 About Me
+Soy un desarrollador **Backend Python** con más de **2,500 horas de aprendizaje autodidacta intensivo** y una formación formal en Ingeniería en Informática. Mi trabajo nace de una necesidad concreta: en mi rol como agente en PedidosYa, identifiqué cómo los procesos manuales y las hojas de cálculo limitaban la eficiencia del equipo. Eso me llevó a construir herramientas reales para resolver problemas reales.
 
-I'm a self-taught **Backend Python Developer** focused on transforming **real-world, legacy workflows** into **clean, scalable, and maintainable systems**.
+Mi enfoque: reemplazar flujos heredados (Excel, VBA, procesos manuales) por servicios Python modernos, automatizados y mantenibles.
 
-I have over **1500+ hours of hands-on experience**, working with:
-- Scalable APIs (REST & GraphQL)
-- Data processing with **pandas**
-- Migration from **Excel + VBA macros** to modern backend architectures
-- Clean code, modular services, and professional Git workflows
+*I'm a **Backend Python Developer** with over **2,500+ hours of self-directed intensive study** and formal training in Computer Engineering. My work stems from a concrete need: in my role at PedidosYa, I identified how manual processes and spreadsheets limited team efficiency — so I built real tools to solve real problems.*
 
-I’m especially strong at understanding *messy business logic* and turning it into **clear, testable, and extensible code**.
+*My focus: replacing legacy workflows (Excel, VBA, manual processes) with modern, automated, maintainable Python services.*
 
 ---
 
-### 🧰 Core Technologies
+## 🧰 Tech Stack & Skills
 
-#### 🔧 Backend & APIs
-- 🐍 Python  
-- 🧬 Django · ⚙️ Django REST Framework  
-- 🚀 FastAPI · 🔥 Flask  
-- 🌐 GraphQL (Graphene-Django)  
-- 🔄 SQLAlchemy · 🗄️ MySQL · PostgreSQL  
-- ✅ Pydantic · 🔐 JWT Authentication  
-- 📊 OpenAPI · Swagger · Redoc  
+### 🔧 Backend & APIs
+- **Languages:** Python (advanced, Pythonic patterns)
+- **Frameworks:** Django, Django REST Framework, FastAPI, Flask
+- **APIs:** REST, GraphQL (Graphene), JWT, Pydantic, OpenAPI (Swagger / Redoc)
+- **Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy
 
-#### 📊 Data Processing & Automation
-- 📈 pandas (data cleaning, normalization, aggregation)
-- 📂 Excel ingestion (multi-sheet, heterogeneous formats)
-- 🔁 Legacy VBA logic migration to Python services
-- 🧹 Data validation and normalization pipelines
+### 📊 Data Engineering & Analytics
+- **Processing:** pandas, NumPy, PySpark
+- **Visualization:** Power BI, Streamlit, Plotly
+- **Automation:** Migration of complex Excel/VBA logic to optimized Python services
 
-#### 🧠 Architecture & Practices
-- 🧩 Modular service-oriented design
-- 🧪 Unit testing foundations
-- 📁 Clean project structures
-- 📝 Professional commits & technical documentation
+### ♾️ DevOps & Tooling
+- **Infrastructure:** Docker, Jenkins (CI/CD pipelines)
+- **Version Control:** Git (conventional commits, professional workflows)
+- **OS / Environments:** Linux, virtual environments, `.bat` launchers for cross-platform deployment
 
 ---
 
-### 🖥️ Desktop & Internal Tools
+## 📘 Proyectos Destacados / Highlighted Projects
 
-- FastAPI-based internal tools
-- Jinja2 UI for file upload and reporting
-- Excel consolidation systems for stock, dispatch, and forecasting
-- Designed for **non-technical end users**
+### 🗓️ [WorkShift — LiveOps Schedule Manager](https://github.com/NicolasAndresCL)
+> Sistema de gestión de turnos de trabajo construido con **Python + Streamlit + SQLite**, desarrollado como iniciativa personal dentro de mi equipo en PedidosYa.
 
----
+Funcionalidades clave:
+- **Multi-trabajador:** soporte para múltiples colaboradores (Manu, Jorge, Babi, Nico) con colores diferenciados por persona.
+- **Gantt interactivo** con Plotly para visualización clara de turnos, incluyendo soporte para **turnos nocturnos** (span de medianoche).
+- **Persistencia SQLite** con migración automática del esquema de base de datos.
+- **Exportación a PDF y Excel** para reportes operacionales.
+- Empaquetado con `README`, launcher `.bat` y `requirements.txt` — listo para despliegue sin fricción.
 
-### 📘 Highlight Projects
-
-- **Stock Consolidation System (FastAPI + pandas)**  
-  Migrated multiple Excel books with different formats into a unified backend service using cleaners and service layers.
-
-- **Arcade Inventory API (REST + GraphQL)**  
-  Complex item logic, rarity systems, effects, and active states.
-
-- **Enterprise-style CRUD APIs**  
-  Clean architecture, Swagger documentation, and extensible models.
-
-📂 All projects are structured, documented, and versioned for technical reviews and interviews.
+> *Work schedule management system built with **Python + Streamlit + SQLite**, developed as a personal initiative within my team at PedidosYa.*
 
 ---
 
-### 🎯 Career Objective
+### 🧩 [OmniSched Pro](https://github.com/NicolasAndresCL)
+> Sistema de scheduling de código abierto orientado a arquitectura limpia y escalabilidad para la organización de tareas y turnos complejos.
 
-Actively seeking roles as:
+- Diseñado para soportar lógica de negocio compleja en la gestión de horarios.
+- Enfoque en separación de responsabilidades, extensibilidad y mantenibilidad.
+- Base técnica pensada para escalar hacia APIs y frontends desacoplados.
 
-- 💼 Junior Backend Developer (Python)
-- 🌐 Backend / Web Developer (FastAPI · Django · Flask)
-- 📊 Backend Developer focused on data processing & automation
-
-I bring value by **understanding the problem first** and delivering **solutions that actually work in production**.
-
----
-
-> 💬 *"Good software is not just written — it is understood."*
+> *Open-source scheduling system focused on clean architecture and scalability for complex task and shift organization.*
 
 ---
 
-## 🇪🇸 Versión en Español
+### 📦 [Stock Consolidation System](https://github.com/NicolasAndresCL)
+> **(FastAPI + pandas)** Unificación de múltiples fuentes de datos heterogéneas (Excel) en un backend centralizado con validación estricta y capas de servicio.
 
-### 🚀 Sobre mí
+- Ingesta de archivos Excel con estructuras inconsistentes.
+- Validación de datos con Pydantic y lógica de negocio desacoplada en servicios.
+- API REST documentada con OpenAPI / Swagger.
 
-Soy desarrollador **Backend Python autodidacta**, enfocado en transformar procesos reales —muchas veces heredados y desordenados— en **sistemas modernos, claros y mantenibles**.
-
-Cuento con más de **1500 horas prácticas**, trabajando con:
-- APIs escalables (REST y GraphQL)
-- Procesamiento y limpieza de datos con **pandas**
-- Migración de **Excel + macros VBA** hacia backend en Python
-- Arquitecturas limpias, servicios desacoplados y control de versiones profesional
-
-Mi fortaleza está en **entender la lógica de negocio real** y llevarla a código limpio y confiable.
+> *Consolidation of multiple heterogeneous Excel data sources into a centralized backend with strict validation and service layers.*
 
 ---
 
-### 🧰 Tecnologías Principales
+## 📈 Learning Metrics
 
-#### 🔧 Backend y APIs
-- 🐍 Python  
-- 🧬 Django · ⚙️ Django REST Framework  
-- 🚀 FastAPI · 🔥 Flask  
-- 🌐 GraphQL (Graphene-Django)  
-- 🔄 SQLAlchemy · 🗄️ MySQL · PostgreSQL  
-- ✅ Pydantic · 🔐 JWT  
-- 📊 OpenAPI · Swagger · Redoc  
-
-#### 📊 Procesamiento de Datos y Automatización
-- 📈 pandas (limpieza, normalización, consolidación)
-- 📂 Lectura de Excel con múltiples formatos y hojas
-- 🔁 Migración de lógica VBA a servicios Python
-- 🧹 Validaciones y pipelines de datos
-
-#### 🧠 Arquitectura y Buenas Prácticas
-- 🧩 Diseño modular por servicios
-- 🧪 Bases de testing
-- 📁 Estructuras profesionales de proyecto
-- 📝 Commits claros y documentación técnica
+| Métrica / Metric | Detalle / Detail |
+| :--- | :--- |
+| **Estudio Autodidacta / Self-directed Study** | 2,500+ horas / hours |
+| **Enfoque Actual / Current Focus** | Data Engineering, LiveOps Automation, CI/CD |
+| **Educación Formal / Formal Education** | Ingeniería en Informática — IP Santo Tomás |
+| **Contexto Profesional / Professional Context** | Live Performance Agent @ PedidosYa (BizOps / LiveOps) |
 
 ---
 
-### 🖥️ Herramientas de Escritorio / Uso Interno
+## 🎯 Objetivo Profesional / Career Objective
 
-- FastAPI con interfaz Jinja2
-- Subida manual de archivos Excel
-- Consolidación de stock, despachos y recetas
-- Pensado para usuarios no técnicos
+Busco integrarme en equipos de desarrollo donde pueda aplicar mis habilidades en **arquitectura backend** y **automatización de procesos**, aportando soluciones que nazcan del entendimiento real del negocio — no solo del código. Tengo la capacidad poco común de ser el puente entre el problema operacional y la solución técnica.
 
----
-
-### 📘 Proyectos Destacados
-
-- **Sistema de Consolidación de Stock (FastAPI + pandas)**  
-  Limpieza y unificación de múltiples libros Excel con estructuras distintas mediante cleaners especializados.
-
-- **API Inventario Arcade (REST + GraphQL)**  
-  Modelos complejos con lógica de juego, rarezas y estados activos.
-
-- **APIs CRUD empresariales**  
-  Arquitectura limpia, documentación Swagger y diseño extensible.
-
-📂 Todos los proyectos están documentados y pensados para revisión técnica y entrevistas.
+*Seeking roles as a **Backend Developer** or **Data Engineer** where I can apply my skills in architecture and process automation, delivering solutions that stem from a real understanding of the business — not just the code. I bring the uncommon ability to bridge operational problems and technical solutions.*
 
 ---
 
-### 🎯 Objetivo Profesional
-
-Busco oportunidades como:
-
-- 💼 Desarrollador Backend Junior (Python)
-- 🌐 Backend / Web Developer (FastAPI · Django · Flask)
-- 📊 Backend orientado a automatización y datos
-
-Mi enfoque es entregar **soluciones reales**, no solo código bonito.
-
----
-
-## 📬 Contacto
-
-- 📧 Email: `nicolas.cano.leal@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/nicolas-andres-cano-leal](https://www.linkedin.com/in/nicolas-andres-cano-leal)  
-- 🌐 Portafolio: [nicolasandrescl.pythonanywhere.com](https://nicolasandrescl.pythonanywhere.com)  
-- 🧑‍💻 GitHub: [github.com/NicolasAndresCL](https://github.com/NicolasAndresCL)
+> 💬 *"El buen software no solo se escribe, se entiende y se evoluciona."*  
+> *"Good software isn't just written — it's understood and evolved."*
