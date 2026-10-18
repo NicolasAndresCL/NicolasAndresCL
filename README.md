@@ -22,7 +22,7 @@ Formal training in Ingeniería en Informática (IP Santo Tomás) and 2,500+ hour
 
 ### 🤖 LiveOps Engine "Jaime" — production, company-owned (private repo)
 
-The automation platform my team runs on every day. Inherited from a colleague in April 2026 and evolved solo since: **654 of the repo's 962 commits** are mine, covering **18 releases, v4.0 → v6.7**, in about six months.
+The automation platform my team runs on every day. Inherited from a colleague in April 2026 and evolved solo since: **654 of the repo's 962 commits** are mine, covering **19 releases, v4.0 → v6.7**, in about six months.
 
 - **~68,000 lines across 230 modules**, **2,800+ tests**, CI on GitHub Actions verified on a clean clone before every push
 - **10 engines running in parallel** over isolated browser profiles, each on its own schedule (dispatch monitoring, reporting, alerting, forecast, end-of-day closing, operator presence)
@@ -113,7 +113,7 @@ I know my current bottleneck: I'm a sole developer, so nobody reviews my archite
 
 **Backend Engineer → SRE.** Soy Live Performance Agent en PedidosYa Chile y el único desarrollador del equipo de operaciones: reemplazo procesos manuales por servicios Python testeados que corren desatendidos en producción.
 
-- **LiveOps Engine "Jaime"**: plataforma de automatización del equipo; 18 versiones (v4.0 → v6.7) desde abril de 2026, ~68.000 líneas, 2.800+ tests y modelos de criticidad en producción.
+- **LiveOps Engine "Jaime"**: plataforma de automatización del equipo; 19 versiones (v4.0 → v6.7) desde abril de 2026, ~68.000 líneas, 2.800+ tests y modelos de criticidad en producción.
 - **Recolector de dossiers** (660 tests) y **sincronización de participantes** (312 tests): Django/DRF y BigQuery con arquitectura limpia.
 - **Este portafolio v2.0**: Django + React con tres temas, CI en GitHub Actions y CD con Jenkins.
 - **All in Django** y **ultimate-linux-lab**: IaC completa (Docker, Terraform, Helm) y CI desde el primer commit.
